@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springcloud-alibaba/nacos-discovery-sentinel/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter10-5-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-boot-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-boot-admin-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter2/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter7/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter8/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter10/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter12/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-chapter13/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-first-sight/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-limiter/pom.xml" />
+        <option value="$PROJECT_DIR$/sc-f-gateway-predicate/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/server-zipkin/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/service-lucy/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/consul-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/eureka-server/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/chapter11-2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter11/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudLearning-master.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudLearning-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin/admin-client/admin-client.iml" filepath="$PROJECT_DIR$/sc-f-boot-admin/admin-client/admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin-cloud/admin-client/admin-client (1).iml" filepath="$PROJECT_DIR$/sc-f-boot-admin-cloud/admin-client/admin-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin/admin-server/admin-server.iml" filepath="$PROJECT_DIR$/sc-f-boot-admin/admin-server/admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin-cloud/admin-server/admin-server (1).iml" filepath="$PROJECT_DIR$/sc-f-boot-admin-cloud/admin-server/admin-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-5-jdbc/chapter10.iml" filepath="$PROJECT_DIR$/chapter10-5-jdbc/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/chapter14/chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/chapter9.iml" filepath="$PROJECT_DIR$/chapter9/chapter9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-5-jdbc/config-client/config-client.iml" filepath="$PROJECT_DIR$/chapter10-5-jdbc/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter6/config-client/config-client (1).iml" filepath="$PROJECT_DIR$/sc-f-chapter6/config-client/config-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/config-client/config-client (2).iml" filepath="$PROJECT_DIR$/sc-f-chapter7/config-client/config-client (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter8/config-client/config-client (3).iml" filepath="$PROJECT_DIR$/sc-f-chapter8/config-client/config-client (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10-5-jdbc/config-server/config-server.iml" filepath="$PROJECT_DIR$/chapter10-5-jdbc/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter6/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/sc-f-chapter6/config-server/config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/config-server/config-server (2).iml" filepath="$PROJECT_DIR$/sc-f-chapter7/config-server/config-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter8/config-server/config-server (3).iml" filepath="$PROJECT_DIR$/sc-f-chapter8/config-server/config-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/consul-miya/consul-miya.iml" filepath="$PROJECT_DIR$/chapter14/consul-miya/consul-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sc-f-chapter4/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chapter-sleuth/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter12/eureka-server/eureka-server (10).iml" filepath="$PROJECT_DIR$/sc-f-chapter12/eureka-server/eureka-server (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter13/eureka-server/eureka-server (11).iml" filepath="$PROJECT_DIR$/sc-f-chapter13/eureka-server/eureka-server (11).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter8/eureka-server/eureka-server (12).iml" filepath="$PROJECT_DIR$/sc-f-chapter8/eureka-server/eureka-server (12).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-cloud/eureka-server/eureka-server (13).iml" filepath="$PROJECT_DIR$/sc-f-gateway-cloud/eureka-server/eureka-server (13).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin-cloud/eureka-server/eureka-server (3).iml" filepath="$PROJECT_DIR$/sc-f-boot-admin-cloud/eureka-server/eureka-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter1/eureka-server/eureka-server (4).iml" filepath="$PROJECT_DIR$/sc-f-chapter1/eureka-server/eureka-server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter2/eureka-server/eureka-server (5).iml" filepath="$PROJECT_DIR$/sc-f-chapter2/eureka-server/eureka-server (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/eureka-server/eureka-server (6).iml" filepath="$PROJECT_DIR$/sc-f-chapter3/eureka-server/eureka-server (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/eureka-server/eureka-server (7).iml" filepath="$PROJECT_DIR$/sc-f-chapter5/eureka-server/eureka-server (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/eureka-server/eureka-server (8).iml" filepath="$PROJECT_DIR$/sc-f-chapter7/eureka-server/eureka-server (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter10/eureka-server/eureka-server (9).iml" filepath="$PROJECT_DIR$/sc-f-chapter10/eureka-server/eureka-server (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/chapter-sleuth/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin/sc-f-boot-admin.iml" filepath="$PROJECT_DIR$/sc-f-boot-admin/sc-f-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-boot-admin-cloud/sc-f-boot-admin (1).iml" filepath="$PROJECT_DIR$/sc-f-boot-admin-cloud/sc-f-boot-admin (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter1/sc-f-chapter1.iml" filepath="$PROJECT_DIR$/sc-f-chapter1/sc-f-chapter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter10/sc-f-chapter10.iml" filepath="$PROJECT_DIR$/sc-f-chapter10/sc-f-chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter12/sc-f-chapter12.iml" filepath="$PROJECT_DIR$/sc-f-chapter12/sc-f-chapter12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter13/sc-f-chapter13.iml" filepath="$PROJECT_DIR$/sc-f-chapter13/sc-f-chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter2/sc-f-chapter2.iml" filepath="$PROJECT_DIR$/sc-f-chapter2/sc-f-chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/sc-f-chapter3.iml" filepath="$PROJECT_DIR$/sc-f-chapter3/sc-f-chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/sc-f-chapter4.iml" filepath="$PROJECT_DIR$/sc-f-chapter4/sc-f-chapter4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/sc-f-chapter5.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/sc-f-chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter6/sc-f-chapter6.iml" filepath="$PROJECT_DIR$/sc-f-chapter6/sc-f-chapter6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter7/sc-f-chapter7.iml" filepath="$PROJECT_DIR$/sc-f-chapter7/sc-f-chapter7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter8/sc-f-chapter7 (1).iml" filepath="$PROJECT_DIR$/sc-f-chapter8/sc-f-chapter7 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter9/sc-f-chapter9.iml" filepath="$PROJECT_DIR$/sc-f-chapter9/sc-f-chapter9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-cloud/sc-f-gateway-cloud.iml" filepath="$PROJECT_DIR$/sc-f-gateway-cloud/sc-f-gateway-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-filter/sc-f-gateway-filter (1).iml" filepath="$PROJECT_DIR$/sc-f-gateway-filter/sc-f-gateway-filter (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-limiter/sc-f-gateway-filter (2).iml" filepath="$PROJECT_DIR$/sc-f-gateway-limiter/sc-f-gateway-filter (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-first-sight/sc-f-gateway-first-sight.iml" filepath="$PROJECT_DIR$/sc-f-gateway-first-sight/sc-f-gateway-first-sight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-predicate/sc-f-gateway-predicate.iml" filepath="$PROJECT_DIR$/sc-f-gateway-predicate/sc-f-gateway-predicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/chapter9/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/sc-f-chapter3/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/service-feign/service-feign (1).iml" filepath="$PROJECT_DIR$/sc-f-chapter4/service-feign/service-feign (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-feign/service-feign (2).iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-feign/service-feign (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-cloud/service-gateway/service-gateway.iml" filepath="$PROJECT_DIR$/sc-f-gateway-cloud/service-gateway/service-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/sc-f-chapter4/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-gateway-cloud/service-hi/service-hi (10).iml" filepath="$PROJECT_DIR$/sc-f-gateway-cloud/service-hi/service-hi (10).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter1/service-hi/service-hi (3).iml" filepath="$PROJECT_DIR$/sc-f-chapter1/service-hi/service-hi (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter2/service-hi/service-hi (4).iml" filepath="$PROJECT_DIR$/sc-f-chapter2/service-hi/service-hi (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/service-hi/service-hi (5).iml" filepath="$PROJECT_DIR$/sc-f-chapter3/service-hi/service-hi (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi (6).iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-hi/service-hi (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter10/service-hi/service-hi (7).iml" filepath="$PROJECT_DIR$/sc-f-chapter10/service-hi/service-hi (7).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter12/service-hi/service-hi (8).iml" filepath="$PROJECT_DIR$/sc-f-chapter12/service-hi/service-hi (8).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter13/service-hi/service-hi (9).iml" filepath="$PROJECT_DIR$/sc-f-chapter13/service-hi/service-hi (9).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter13/service-lucy/service-lucy.iml" filepath="$PROJECT_DIR$/sc-f-chapter13/service-lucy/service-lucy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter4/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/sc-f-chapter4/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter2/service-ribbon/service-ribbon (1).iml" filepath="$PROJECT_DIR$/sc-f-chapter2/service-ribbon/service-ribbon (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter3/service-ribbon/service-ribbon (2).iml" filepath="$PROJECT_DIR$/sc-f-chapter3/service-ribbon/service-ribbon (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-ribbon/service-ribbon (3).iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-ribbon/service-ribbon (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter13/service-turbine/service-turbine.iml" filepath="$PROJECT_DIR$/sc-f-chapter13/service-turbine/service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter9/service-hi/service-zipkin.iml" filepath="$PROJECT_DIR$/sc-f-chapter9/service-hi/service-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/service-hi/service-zipkin (1).iml" filepath="$PROJECT_DIR$/chapter9/service-hi/service-zipkin (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter5/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/sc-f-chapter5/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sc-f-chapter9/service-miya/service2-zipkin.iml" filepath="$PROJECT_DIR$/sc-f-chapter9/service-miya/service2-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/service-miya/service2-zipkin (1).iml" filepath="$PROJECT_DIR$/chapter9/service-miya/service2-zipkin (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth/sleuth.iml" filepath="$PROJECT_DIR$/chapter-sleuth/sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-mysql/sleuth (1).iml" filepath="$PROJECT_DIR$/chapter-sleuth-mysql/sleuth (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream/sleuth (2).iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream/sleuth (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-elasticsearch/sleuth (3).iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-elasticsearch/sleuth (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-mysql/sleuth (4).iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-mysql/sleuth (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth/user-service/user-service.iml" filepath="$PROJECT_DIR$/chapter-sleuth/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/chapter-sleuth/zipkin-server/zipkin-server.iml" />
+    </modules>
+  </component>
+</project>

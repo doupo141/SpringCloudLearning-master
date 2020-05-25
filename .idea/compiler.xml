@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service2-zipkin (1)" />
+        <module name="sc-f-gateway-predicate" />
+        <module name="eureka-server (13)" />
+        <module name="server-zipkin" />
+        <module name="zipkin-server" />
+        <module name="sc-f-gateway-first-sight" />
+        <module name="config-client (2)" />
+        <module name="eureka-server (11)" />
+        <module name="service-feign" />
+        <module name="service-hi (6)" />
+        <module name="service-ribbon (2)" />
+        <module name="eureka-server (7)" />
+        <module name="service-hi" />
+        <module name="service-zipkin (1)" />
+        <module name="admin-server (1)" />
+        <module name="config-server (3)" />
+        <module name="config-client (1)" />
+        <module name="gateway-service" />
+        <module name="eureka-server (10)" />
+        <module name="service-zuul" />
+        <module name="service-zipkin" />
+        <module name="eureka-server (1)" />
+        <module name="service-hi (5)" />
+        <module name="service-feign (2)" />
+        <module name="sc-f-gateway-filter (2)" />
+        <module name="service-ribbon (1)" />
+        <module name="eureka-server (6)" />
+        <module name="service-lucy" />
+        <module name="consul-miya" />
+        <module name="admin-client" />
+        <module name="service-gateway" />
+        <module name="service-hi (4)" />
+        <module name="service-feign (1)" />
+        <module name="sc-f-gateway-filter (1)" />
+        <module name="eureka-server (5)" />
+        <module name="service-hi (9)" />
+        <module name="service2-zipkin" />
+        <module name="chapter14" />
+        <module name="config-server (1)" />
+        <module name="admin-server" />
+        <module name="service-ribbon" />
+        <module name="service-hi (3)" />
+        <module name="config-server" />
+        <module name="chapter9" />
+        <module name="eureka-server (4)" />
+        <module name="service-hi (8)" />
+        <module name="eureka-server (9)" />
+        <module name="config-client" />
+        <module name="service-hi (10)" />
+        <module name="admin-client (1)" />
+        <module name="config-client (3)" />
+        <module name="eureka-server (12)" />
+        <module name="eureka-server (3)" />
+        <module name="service-hi (7)" />
+        <module name="service-turbine" />
+        <module name="user-service" />
+        <module name="service-ribbon (3)" />
+        <module name="eureka-server (8)" />
+        <module name="eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="admin-client" target="1.8" />
+      <module name="admin-client (1)" target="1.8" />
+      <module name="admin-server" target="1.8" />
+      <module name="admin-server (1)" target="1.8" />
+      <module name="chapter1" target="1.5" />
+      <module name="chapter1 (1)" target="1.5" />
+      <module name="chapter1 (2)" target="1.5" />
+      <module name="chapter1 (3)" target="1.5" />
+      <module name="chapter1 (4)" target="1.5" />
+      <module name="chapter1 (5)" target="1.5" />
+      <module name="chapter1 (6)" target="1.5" />
+      <module name="chapter1 (7)" target="1.5" />
+      <module name="chapter1 (8)" target="1.5" />
+      <module name="chapter1 (9)" target="1.5" />
+      <module name="chapter10" target="1.8" />
+      <module name="chapter14" target="1.5" />
+      <module name="chapter6" target="1.5" />
+      <module name="chapter7" target="1.5" />
+      <module name="chapter7 (1)" target="1.5" />
+      <module name="chapter9" target="1.5" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client (1)" target="1.8" />
+      <module name="config-client (2)" target="1.8" />
+      <module name="config-client (3)" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server (1)" target="1.8" />
+      <module name="config-server (2)" target="1.8" />
+      <module name="config-server (3)" target="1.8" />
+      <module name="consul-miya" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server (10)" target="1.8" />
+      <module name="eureka-server (11)" target="1.8" />
+      <module name="eureka-server (12)" target="1.8" />
+      <module name="eureka-server (13)" target="1.8" />
+      <module name="eureka-server (14)" target="1.8" />
+      <module name="eureka-server (15)" target="1.8" />
+      <module name="eureka-server (16)" target="1.8" />
+      <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="eureka-server (4)" target="1.8" />
+      <module name="eureka-server (5)" target="1.8" />
+      <module name="eureka-server (6)" target="1.8" />
+      <module name="eureka-server (7)" target="1.8" />
+      <module name="eureka-server (8)" target="1.8" />
+      <module name="eureka-server (9)" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="nacos-consumer" target="1.8" />
+      <module name="nacos-discovery" target="1.5" />
+      <module name="nacos-provider" target="1.8" />
+      <module name="sc-f-boot-admin" target="1.8" />
+      <module name="sc-f-boot-admin (1)" target="1.8" />
+      <module name="sc-f-chapter1" target="1.8" />
+      <module name="sc-f-chapter10" target="1.8" />
+      <module name="sc-f-chapter12" target="1.8" />
+      <module name="sc-f-chapter13" target="1.8" />
+      <module name="sc-f-chapter2" target="1.8" />
+      <module name="sc-f-chapter3" target="1.8" />
+      <module name="sc-f-chapter4" target="1.8" />
+      <module name="sc-f-chapter5" target="1.8" />
+      <module name="sc-f-chapter6" target="1.8" />
+      <module name="sc-f-chapter7" target="1.8" />
+      <module name="sc-f-chapter7 (1)" target="1.8" />
+      <module name="sc-f-chapter9" target="1.8" />
+      <module name="sc-f-gateway-cloud" target="1.8" />
+      <module name="sc-f-gateway-filter (1)" target="1.8" />
+      <module name="sc-f-gateway-filter (2)" target="1.8" />
+      <module name="sc-f-gateway-first-sight" target="1.8" />
+      <module name="sc-f-gateway-predicate" target="1.8" />
+      <module name="server-zipkin" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-feign (1)" target="1.8" />
+      <module name="service-feign (2)" target="1.8" />
+      <module name="service-gateway" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-hi (1)" target="1.8" />
+      <module name="service-hi (10)" target="1.8" />
+      <module name="service-hi (11)" target="1.8" />
+      <module name="service-hi (12)" target="1.8" />
+      <module name="service-hi (2)" target="1.8" />
+      <module name="service-hi (3)" target="1.8" />
+      <module name="service-hi (4)" target="1.8" />
+      <module name="service-hi (5)" target="1.8" />
+      <module name="service-hi (6)" target="1.8" />
+      <module name="service-hi (7)" target="1.8" />
+      <module name="service-hi (8)" target="1.8" />
+      <module name="service-hi (9)" target="1.8" />
+      <module name="service-lucy" target="1.8" />
+      <module name="service-lucy (1)" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon (1)" target="1.8" />
+      <module name="service-ribbon (2)" target="1.8" />
+      <module name="service-ribbon (3)" target="1.8" />
+      <module name="service-ribbon (4)" target="1.8" />
+      <module name="service-turbine" target="1.8" />
+      <module name="service-turbine (1)" target="1.8" />
+      <module name="service-zipkin" target="1.8" />
+      <module name="service-zipkin (1)" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="service2-zipkin" target="1.8" />
+      <module name="service2-zipkin (1)" target="1.8" />
+      <module name="sleuth" target="1.8" />
+      <module name="sleuth (1)" target="1.8" />
+      <module name="sleuth (2)" target="1.8" />
+      <module name="sleuth (3)" target="1.8" />
+      <module name="sleuth (4)" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="admin-client" options="-parameters" />
+      <module name="admin-client (1)" options="-parameters" />
+      <module name="admin-server" options="-parameters" />
+      <module name="admin-server (1)" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-client (1)" options="-parameters" />
+      <module name="config-client (2)" options="-parameters" />
+      <module name="config-client (3)" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="config-server (1)" options="-parameters" />
+      <module name="config-server (3)" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="eureka-server (10)" options="-parameters" />
+      <module name="eureka-server (11)" options="-parameters" />
+      <module name="eureka-server (12)" options="-parameters" />
+      <module name="eureka-server (13)" options="-parameters" />
+      <module name="eureka-server (3)" options="-parameters" />
+      <module name="eureka-server (4)" options="-parameters" />
+      <module name="eureka-server (5)" options="-parameters" />
+      <module name="eureka-server (6)" options="-parameters" />
+      <module name="eureka-server (7)" options="-parameters" />
+      <module name="eureka-server (8)" options="-parameters" />
+      <module name="eureka-server (9)" options="-parameters" />
+      <module name="nacos-consumer" options="-parameters" />
+      <module name="nacos-provider" options="-parameters" />
+      <module name="sc-f-gateway-filter (1)" options="-parameters" />
+      <module name="sc-f-gateway-filter (2)" options="-parameters" />
+      <module name="sc-f-gateway-first-sight" options="-parameters" />
+      <module name="sc-f-gateway-predicate" options="-parameters" />
+      <module name="service-feign" options="-parameters" />
+      <module name="service-feign (1)" options="-parameters" />
+      <module name="service-feign (2)" options="-parameters" />
+      <module name="service-gateway" options="-parameters" />
+      <module name="service-hi" options="-parameters" />
+      <module name="service-hi (10)" options="-parameters" />
+      <module name="service-hi (3)" options="-parameters" />
+      <module name="service-hi (4)" options="-parameters" />
+      <module name="service-hi (5)" options="-parameters" />
+      <module name="service-hi (6)" options="-parameters" />
+      <module name="service-hi (7)" options="-parameters" />
+      <module name="service-hi (8)" options="-parameters" />
+      <module name="service-hi (9)" options="-parameters" />
+      <module name="service-lucy" options="-parameters" />
+      <module name="service-ribbon" options="-parameters" />
+      <module name="service-ribbon (1)" options="-parameters" />
+      <module name="service-ribbon (2)" options="-parameters" />
+      <module name="service-ribbon (3)" options="-parameters" />
+      <module name="service-turbine" options="-parameters" />
+      <module name="service-zipkin" options="-parameters" />
+      <module name="service-zuul" options="-parameters" />
+      <module name="service2-zipkin" options="-parameters" />
+    </option>
+  </component>
+</project>
