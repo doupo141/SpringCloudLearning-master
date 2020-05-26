@@ -30,7 +30,7 @@ management:
 
 
 spring.mail.host: smtp.163.com
-spring.mail.username: miles02
-spring.mail.password:
-spring.boot.admin.notify.mail.to: 124746406@qq.com
+spring.mail.username: 179234280
+spring.mail.password: shendou141@qq163
+spring.boot.admin.notify.mail.to: 179234280@qq.com
 
